@@ -1,0 +1,6 @@
+/*
+  X-Robots-Tag: all
+  Cache-Control: public, max-age=0, must-revalidate
+
+# Disable Cloudflare/Netlify email obfuscation
+Content-Security-Policy: default-src 'self'
